@@ -1,0 +1,44 @@
+{
+  "room": "☃️❄️ Music CZ/SK ❄️☃️",
+  "author": "ღ ℕ𝕚𝕔𝕚 ღ",
+  "icon":	"https://cdn.radiant.dj/r…/icons/radiant/logo.png"
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+},
+  "ccc": {
+    "admin": "#960c2c",
+    "ambassador": "#2d13f4",
+    "host": "#ef831f",
+    "cohost": "#efc417",
+    "manager": "#8aed12" ,
+    "bouncer": "#2bffc3" ,
+    "rdj": "#f92af6",
+    "subscriber": "#683a67",
+    "silversubscriber": "#C0C0C0",
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "http://i.imgur.com/hjtFKu3.jpg",
+    "playback": "https://i.imgur.com/1bjXpXk.png",
+    "admin": null,
+    "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+    "host": null,
+    "cohost": "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+    "manager": "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+    "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+    "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+    "subscriber": null,
+    "silversubscriber": "https://vgy.me/sLYChC.png",
+    "other": null
+  },
+  "emotes": {
+  }
+}
